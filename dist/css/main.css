@@ -1,0 +1,29 @@
+:root {
+	--color-terracotta: 		#db6443;
+	--color-terracotta-dark: 	#9A381D;
+	--color-purple: 			#626593;
+	--color-purple-light:		#e7e7ef;
+	--color-purple-dark: 		#393B56;
+	--color-aqua: 				#4cc9f0;
+	--color-grey:				gainsboro;
+	--color-grey-dark:			grey;
+	--color-black:				#000;
+}
+
+body {
+	font-family: arial, sans-serif;
+}
+
+.sr-only {
+	position: absolute;
+
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+
+	border: none;
+
+	clip: rect(0, 0, 0, 0);
+}
