@@ -3,8 +3,8 @@ Testing components requires a different mindset and tools than testing regular j
 
 ## Used tools
 * [Jest](https://jestjs.io)
-* [Testing-Library](https://testing-library.com)
-* [Testin-Library/user-events](https://github.com/testing-library/user-event)
+* [testing-library](https://testing-library.com)
+* [testing-library/user-event](https://github.com/testing-library/user-event)
 
 ## Framework
 * [Svelte](https://svelte.dev)
